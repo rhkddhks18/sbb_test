@@ -1,0 +1,2 @@
+CREATE DATABASE sbb_test;
+USE sbb_test;
